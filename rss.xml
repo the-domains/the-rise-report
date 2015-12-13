@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[The Rise Report]]></title>
         <description><![CDATA[The Rise Report]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-rise-report/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 21:59:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Dec 2015 22:04:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-rise-report/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Global Report: Canada]]></title>
+            <description><![CDATA[<article><h1>Global Report: Canada</h1><p>Long known for its budding British Columbian marijuana industry, Canada implemented its medicinal marijuana program in 2001, run by Health Canada. A year earlier, the Ontario Court of Appeal knocked down the marijuana possession section of federal anti-drug law, saying it violated Charter of Rights and Freedoms because no provision was made for medical users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a49673415fd123f8bb0c099110c78e997d06c904.png"></article>]]></description>
+            <link>http://medireview.com/2013/04/medical-marijuana-in-canada/</link>
+            <guid isPermaLink="false">4eb4278e-427d-497a-a7f1-8e29b6606d31</guid>
+            <pubDate>Sun, 13 Dec 2015 22:03:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Global Report: Czech Republic]]></title>
-            <description><![CDATA[<article><h1>Global Report: Czech Republic</h1><p>Long known for having a very liberal approach to recreational cannabis use, the Czech Republic officially legalized medical marijuana in April 2013. The plant is available for sale in pharmacies, a...</p><img src="http://medireview.com/wp-content/uploads/2013/04/Flag_of_the_Czech_Republic.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Global Report: Czech Republic</h1><p>Long known for having a very liberal approach to recreational cannabis use, the Czech Republic officially legalized medical marijuana in April 2013. The plant is available for sale in pharmacies, a...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a614959a4a8ced40e2486224ac40ee08e942048.png"></article>]]></description>
             <link>http://medireview.com/2013/04/medical-marijuana-in-the-czech-republic/</link>
             <guid isPermaLink="false">b026dc8b-cf58-49b4-9816-20291b098171</guid>
             <pubDate>Sun, 13 Dec 2015 21:59:28 GMT</pubDate>
