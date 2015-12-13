@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://medireview.com/2013/04/medical-marijuana-in-the-netherlands/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - subscribe
   - information
@@ -17,8 +17,8 @@ keywords:
   - learning
   - industry
 description: 'SUBSCRIBE TO STAY ON TOP OF THE INDUSTRY! The Medical Marijuana Review is planning new information and learning resources for you - subscribe to updates (your information is never shared and you will not be spammed). THANK YOU!'
-datePublished: '2015-12-13T22:09:40.474Z'
-dateModified: '2015-12-13T22:09:17.181Z'
+datePublished: '2015-12-13T22:15:37.319Z'
+dateModified: '2015-12-13T22:15:31.404Z'
 author: []
 related: []
 app_links: []
