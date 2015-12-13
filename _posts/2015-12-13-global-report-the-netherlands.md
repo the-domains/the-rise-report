@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://medireview.com'
-  name: The Medical Marijuana Review
-  favicon: 'http://medireview.com/wp-content/uploads/2015/02/favicon-3.ico'
-  domain: medireview.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://medireview.com/2013/04/medical-marijuana-in-the-netherlands/'
+inLanguage: en
+starred: false
 keywords:
   - subscribe
   - information
@@ -18,19 +17,22 @@ keywords:
   - learning
   - industry
 description: 'SUBSCRIBE TO STAY ON TOP OF THE INDUSTRY! The Medical Marijuana Review is planning new information and learning resources for you - subscribe to updates (your information is never shared and you will not be spammed). THANK YOU!'
-inLanguage: en
+datePublished: '2015-12-13T22:09:40.474Z'
+dateModified: '2015-12-13T22:09:17.181Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://medireview.com/2013/04/medical-marijuana-in-the-netherlands/'
 title: 'Global Report: The Netherlands'
-datePublished: '2015-12-13T22:04:03.068Z'
-dateModified: '2015-12-13T22:00:54.272Z'
+authors: []
+publisher:
+  name: The Medical Marijuana Review
+  domain: medireview.com
+  url: 'http://medireview.com'
+  favicon: 'http://medireview.com/wp-content/uploads/2015/02/favicon-3.ico'
 sourcePath: _posts/2015-12-13-global-report-the-netherlands.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Global Report&amp;colon; The Netherlands</h1><p>SUBSCRIBE TO STAY ON TOP OF THE INDUSTRY&amp;excl; The Medical Marijuana Review is planning new information and learning resources for you - subscribe to updates &amp;lpar;your information is never shared and you will not be spammed&amp;rpar;&amp;period; THANK YOU&amp;excl;</p><img src="http://medireview.com/wp-content/uploads/2013/04/Flag_of_the_Netherlands.png" /></article>
+The Netherlands has long been at the forefront of offering medical marijuana to its citizens. Medical marijuana was legalized in the Netherlands for use in pharmacies in 2003 and since 2007 several pharmacies have specialized in medical cannabis. They buy medical cannabis in bulk and can therefore deliver the products for a lower price. Three types of medical cannabis are available through pharmacies: Bedrocan, Bedrobinol and Bediol.
