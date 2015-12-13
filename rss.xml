@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Rise Report]]></title>
+        <description><![CDATA[The Rise Report]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Dec 2015 21:59:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Global Report: Czech Republic]]></title>
+            <description><![CDATA[<article><h1>Global Report: Czech Republic</h1><p>Long known for having a very liberal approach to recreational cannabis use, the Czech Republic officially legalized medical marijuana in April 2013. The plant is available for sale in pharmacies, a...</p><img src="http://medireview.com/wp-content/uploads/2013/04/Flag_of_the_Czech_Republic.png"></article>]]></description>
+            <link>http://medireview.com/2013/04/medical-marijuana-in-the-czech-republic/</link>
+            <guid isPermaLink="false">b026dc8b-cf58-49b4-9816-20291b098171</guid>
+            <pubDate>Sun, 13 Dec 2015 21:59:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
