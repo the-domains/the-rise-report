@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Despite a long association of cannabis use in the U.K. as a lifestyle drug, marijuana has remained illegal, classified as a Class B drug (the second most dangerous group of controlled drugs). In the U.S., cannabis is a Schedule I drug, the only category of controlled substances that may not be prescribed by a physician'
-datePublished: '2015-12-15T00:21:49.530Z'
-dateModified: '2015-12-15T00:21:29.980Z'
+datePublished: '2015-12-15T00:26:46.302Z'
+dateModified: '2015-12-15T00:26:27.783Z'
 title: 'Global Report: United Kingdom'
 author: []
 authors: []
@@ -22,7 +22,7 @@ url: global-report-united-kingdom/index.html
 _type: Article
 
 ---
-Despite a long association of cannabis use in the U.K. as a lifestyle drug, marijuana has remained illegal, classified as a [Class B drug][0] (the second most dangerous group of controlled drugs). In the U.S., cannabis is a Schedule I drug, the only category of controlled substances that may not be prescribed by a physician
+Despite a long association of cannabis use in the U.K. as a lifestyle drug, marijuana has remained illegal, classified as a [Class B drug][0] (the second most dangerous group of controlled drugs). In the U.S., cannabis is a Schedule I drug, the only category of controlled substances that may not be prescribed by a physician.
 
 The illegal status has, for the most part, extended to the use of medical marijuana (cannabis was first made illegal in the UK in 1928, and medical use was outlawed in 1973). Marijuana has been deemed illegal in spite of medical groups voicing their support for the controlled use of medical marijuana. For example, the Royal Society and the Academy of Medical Sciences reports there are [sufficient grounds][1] for running several clinical trials into the medical benefits of cannabis.
 
