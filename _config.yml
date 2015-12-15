@@ -1,7 +1,7 @@
 name: The Rise Report
 favicon: null
 layout_spectrum: 0.2174135206732899
-typography_spectrum: 0.8099458762444556
+typography_spectrum: 0.73628
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.030703994212672114
+    - '#f26522'
+    - '#ffffff'
+    - '#fabc9a'
+    - '#ff0000'
+    - '#800000'
+  brandStrength: 0.5
   lightness: 0.21942618652246892
   saturation: 0.4955610455945134
   rhythmicContrast: 0.4234426768962294
